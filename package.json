@@ -1,0 +1,17 @@
+{
+  "name": "cientifico",
+  "version": "1.0.0",
+  "description": "Single Page Aplication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "git",
+    "npm",
+    "spa"
+  ],
+  "author": "Alejandro Vera <alejandroverah97@gmail.com>",
+  "license": "MIT"
+}
