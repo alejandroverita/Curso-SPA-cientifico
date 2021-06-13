@@ -4,14 +4,18 @@ const Header = () => {
             <div class= "Header-logo">
                 <h1>
                     <a href="/">
-                        100tifi.co
+                        <img src="https://i.imgur.com/7utDxm8.png" alt="Rick and Morty">
                     </a>
                 </h1>
             </div>
             <div class = "Header-nav">
-                <a href="#/about/">
+                <a href="#/about/" class="nav-element">
                     About
                 </a>
+                <button class="switch" id="switch">
+                    <span><i class="fas fa-sun"></i><span>
+                    <span><i class="fas fa-moon"></i><span>
+                </button>
             </div>
         </div>
     `;
