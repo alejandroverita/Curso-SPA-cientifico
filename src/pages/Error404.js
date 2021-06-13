@@ -1,6 +1,6 @@
 const Error404 = () => {
     const view = `
-        <div class= "error404">
+        <div class= "Error404">
             <h2>Upps! Algo sucedio mal! </h2>
         </div>
     `;
